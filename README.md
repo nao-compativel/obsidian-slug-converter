@@ -18,7 +18,7 @@ A simple extension to convert selected text into slugs in Obsidian, with configu
 1. Clone or extract the extension files to:
 
 ``
-VaultFolder/.obsidian/plugins/obsidian-slug-converter/
+VaultFolder/.obsidian/plugins/slug-converter/
 
 ``
 
