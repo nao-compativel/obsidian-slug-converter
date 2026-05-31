@@ -166,7 +166,7 @@ dropdown
 
 ## License
 
-MIT
+GNU GENERAL PUBLIC LICENSE
 
 ## Contributions
 
