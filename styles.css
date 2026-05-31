@@ -1,0 +1,23 @@
+.slug-converter-settings {
+  padding: 20px;
+}
+
+.slug-converter-settings h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 0.95em;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.slug-converter-settings ul {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.slug-converter-settings li {
+  margin: 5px 0;
+  font-size: 0.85em;
+  color: var(--text-muted);
+  font-family: var(--font-monospace);
+}
