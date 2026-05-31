@@ -2,10 +2,10 @@
   "id": "obsidian-slug-converter",
   "name": "Slug Converter",
   "version": "1.0.0",
-  "minAppVersion": "0.15.0",
-  "description": "Converts selected text into slugs with configuration options",
-  "author": "Slug Converter",
-  "authorUrl": "https://github.com",
+  "minAppVersion": "1.0.0",
+  "description": "Convert selected text into clean, customizable, SEO-friendly slugs instantly.",
+  "author": "nao-compativel",
+  "authorUrl": "https://github.com/nao-compativel",
   "fundingUrl": "",
   "isDesktopOnly": false
 }
